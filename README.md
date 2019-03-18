@@ -58,7 +58,7 @@ Instalar dependencias: `npm i`
 * Importante: El movimiento de la celda verde debe limitarse, no puede desaparecer! (si llega al maximo debe quedar ahi).
 * Mas importante: La celda verde no puede solaparse con la roja! solo se puede desplazar en grises 
 
-### Requerimiento 6
+### Requerimiento 6 (??')
 40' despues: "Jugaste al juego 'portal'? bueno, hagamos que se teletransporte!"
 
 * Al superar un limite el verde debera reaparecer en el lado opuesto.
